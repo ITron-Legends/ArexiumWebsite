@@ -52,13 +52,20 @@ html {
   -o-transition: all 0.2s ease-in;
   -webkit-transition: all 0.2s ease-in;
   transition: all 0.2s ease-in;
+  color: #5f0bde !important;
 }
-
+.navbar-item{
+  background-color: transparent !important;
+  color: #5f0bde !important;
+}
 .navbar-item:hover {
   background-color: transparent !important;
   color: #5f0bde !important;
 }
-
+.navbar-link{
+  background-color: transparent !important;
+  color: #5f0bde !important;
+}
 .navbar-link:hover {
   background-color: transparent !important;
   color: #5f0bde !important;
