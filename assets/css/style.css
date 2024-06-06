@@ -94,7 +94,7 @@ html {
 
 nav,
 .navbar-menu {
-  background-color: #1a2634 !important;
+  background-color: #0f0321 !important;
 }
 
 .navbar-item.nav-dark,
@@ -104,7 +104,7 @@ nav,
 
 .navbar-item,
 .navbar-link {
-  color: white !important;
+  color: #0f0321 !important;
 }
 
 nav.nav-w {
