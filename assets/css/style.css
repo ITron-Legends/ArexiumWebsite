@@ -34,11 +34,11 @@ html {
 
 #backtotop:hover {
   cursor: pointer;
-  background-color: #333;
+  background-color: #0f0321;
 }
 
 #backtotop:active {
-  background-color: #555;
+  background-color: #0f0321;
 }
 
 #backtotop.show {
@@ -55,24 +55,21 @@ html {
   color: #5f0bde !important;
 }
 .navbar-item{
-  background-color: transparent !important;
   color: #5f0bde !important;
 }
 .navbar-item:hover {
-  background-color: transparent !important;
   color: #5f0bde !important;
 }
 .navbar-link{
-  background-color: transparent !important;
   color: #5f0bde !important;
 }
 .navbar-link:hover {
-  background-color: transparent !important;
   color: #5f0bde !important;
 }
 
 .navbar-menu {
   animation: navAnimOpen 0.2s ease-in-out;
+  color: black;
 }
 
 @keyframes navAnimOpen {
@@ -106,12 +103,12 @@ nav,
 
 .navbar-item.nav-dark,
 .navbar-link.nav-dark {
-  color: #0f0321 !important;
+  color: #000000 !important;
 }
 
 .navbar-item,
 .navbar-link {
-  color: #0f0321 !important;
+  color: #000000 !important;
 }
 
 nav.nav-w {
